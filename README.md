@@ -1,3 +1,3 @@
 # classification-challenge
 
-### Final Code can be found under "Starter Code" > "Spam_detector.ipynb"
+### Final Code can be found under "M13_Starter_Code" > "spam_detector.ipynb"
